@@ -14,27 +14,14 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url("background.jpg");
+    background-image: url("background-food.avif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-.center {
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin: -25px 0 0 -25px;
-}
 
-.sec1 {
-    width: 20%;
-    height: auto;       
-}
-
-.sec2 {
+.section {
     position: relative;
     max-width: fit-content;
     background-color: transparent;
